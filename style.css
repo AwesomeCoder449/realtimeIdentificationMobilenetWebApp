@@ -1,0 +1,43 @@
+#header{
+    font-family: 'Turret Road', cursive;
+    color: limegreen;
+}
+body{
+    text-align: center;
+}
+#myMarquee{
+    font-family: 'Turret Road', cursive;
+    color: limegreen;
+    font-weight: bold;
+}
+#object{
+    display: inline-block;
+    background-color: limegreen;
+    color: white;
+    border-radius: 10px;
+    width: 60%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Turret Road', cursive;
+    font-size: 25px;
+}
+#accuracy{
+    display: inline-block;
+    background-color: limegreen;
+    color: white;
+    border-radius: 10px;
+    width: 60%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Turret Road', cursive;
+    font-size: 25px;
+}
+#objectResult{
+    white-space: pre-line;
+}
+#accuracyResult{
+    white-space: pre-line;
+}
+canvas{
+    margin-top: 50px;
+}
